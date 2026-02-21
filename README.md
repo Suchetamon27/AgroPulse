@@ -103,14 +103,14 @@ Quick Start
 
 agropulse/
 ├── src/
-│   ├── components/  
-│   ├── pages/       
-│   ├── db/              
-│   ├── i18n/            
+│   ├── components/        
+│   ├── pages/            
+│   ├── db/               
+│   ├── i18n/             
 │   ├── hooks/           
 │   └── types/            
-├── supabase/            
-└── public/          
+├── supabase/             
+└── public/                
 
 ## 🤝 Contributing
 
